@@ -21,7 +21,7 @@ export default function App({ Component, pageProps }: AppProps) {
       <Script async src="/assets/vendor/oneko/oneko.js"></Script>
 
       <Head>
-        <title>/sammwy/ - ପ(๑•ᴗ•๑)ଓ ♡</title>
+        <title>/junsred/ - ପ(๑•ᴗ•๑)ଓ ♡</title>
         <meta
           name="description"
           content="≽^•⩊•^≼ ୧ ‧₊˚ 🍓 ⋅ ☆ ໒꒰ྀིっ˕ -｡꒱ྀི১ Nyan meow prr"
