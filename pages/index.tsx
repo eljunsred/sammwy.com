@@ -59,12 +59,12 @@ export default function Home() {
 
         {/* Pronouns */}
         <Section p={'10px 20px'} alignItems={'center'} gap={'7px'} orbit>
-          <FaTag size={'15px'} /> She/Her
+          <FaTag size={'15px'} /> He/Him
         </Section>
 
         {/* Personality */}
         <Section p={'10px 20px'} alignItems={'center'} gap={'7px'} orbit>
-          <FaHeart size={'15px'} /> INTJ
+          <FaHeart size={'15px'} /> Argentina
         </Section>
       </Flex>
 
