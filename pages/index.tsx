@@ -90,7 +90,7 @@ export default function Home() {
       {/* Clients */}
       <Flex flexDir={'column'} alignItems={'center'} gap={'20px'} mt={'70px'}>
         <Heading color={'inherit'} size={'lg'}>
-          My clients
+          My favourite streamers
         </Heading>
 
         <AutoScroll>
