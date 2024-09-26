@@ -129,17 +129,17 @@ export default function Navbar() {
         {!isSmall && (
           <Flex className={styles.section}>
             <SocialLink
-              href={'https://twitter.com/sammwy'}
+              href={'https://twitter.com/JunsredX'}
               icon={FaTwitter}
               color={'#1DA1F2'}
             />
             <SocialLink
-              href={'https://floss.social/@sammwy'}
+              href={'https://floss.social/@junsred'}
               icon={FaMastodon}
               color={'#2b90d9'}
             />
             <SocialLink
-              href={'https://github.com/sammwyy'}
+              href={'https://github.com/junsrxd'}
               icon={FaGithub}
               color={'#777'}
             />
@@ -149,12 +149,12 @@ export default function Navbar() {
               color={'#5865F2'}
             />
             <SocialLink
-              href={'https://youtube.com/@sammwy'}
+              href={'https://youtube.com/@junsrxd'}
               icon={FaYoutube}
               color={'#FF0000'}
             />
             <SocialLink
-              href={'https://twitch.tv/sammwy'}
+              href={'https://twitch.tv/junsrxd'}
               icon={FaTwitch}
               color={'#6441A4'}
             />
