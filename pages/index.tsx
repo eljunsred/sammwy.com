@@ -37,7 +37,7 @@ export default function Home() {
       />
 
       {/* Greetings */}
-      <Heading size={isSmall ? '2xl' : '4xl'}>Howdy! I&apos;m /Sammwy/</Heading>
+      <Heading size={isSmall ? '2xl' : '4xl'}>Howdy! I&apos;m /Junsred/</Heading>
       <Heading size={isSmall ? 'xl' : '2xl'} color={'inherit'}>
         A Software Engineer
       </Heading>
